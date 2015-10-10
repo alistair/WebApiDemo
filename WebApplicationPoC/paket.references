@@ -1,4 +1,11 @@
 Microsoft.CodeDom.Providers.DotNetCompilerPlatform
-Microsoft.Net.Compilers
 Microsoft.AspNet.WebApi.Owin
 Microsoft.Owin.Host.SystemWeb
+AutoMapper
+structuremap
+EntityFramework6.Npgsql
+MediatR
+FluentValidation
+FluentValidation.WebApi
+automapper.ef6
+CommonServiceLocator

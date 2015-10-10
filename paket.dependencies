@@ -1,9 +1,19 @@
+framework: >= net45
+redirects: on
+
 source https://findly.myget.org/F/findly/
 source https://findly.myget.org/F/findly/
 source http://findlybuild2.cloudapp.net/nuget/
 source https://www.nuget.org/api/v2/
 
+nuget automapper
+nuget automapper.ef6
+nuget CommonServiceLocator
+nuget EntityFramework6.Npgsql
+nuget FluentValidation
+nuget FluentValidation.WebApi
+nuget MediatR
 nuget Microsoft.AspNet.WebApi.Owin
 nuget Microsoft.CodeDom.Providers.DotNetCompilerPlatform 1.0.0 framework: >= net452
-nuget Microsoft.Net.Compilers 1.0.0 framework: >= net452
 nuget Microsoft.Owin.Host.SystemWeb
+nuget structuremap
