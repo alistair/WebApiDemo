@@ -1,0 +1,15 @@
+#User files
+*.suo
+*.user
+.vs
+
+
+#build artifacts
+bin
+csx
+obj
+output
+packages
+publish
+rcf
+src/CommonAssemblyInfo.cs
